@@ -8,7 +8,7 @@ unknown_faces_dir="unknownfaces"
 TOLERANCE=0.6
 FRAME_THICKNESS=3
 FONT_THICKNESS=2
-MODEL='hog'
+MODEL='cnn'
 
 def identifyfaces():
 
